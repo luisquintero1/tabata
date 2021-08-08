@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700);
+body{
+	 
+	 
+	background-image: url("img/pol.jpg" )  ; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h5{ 
+    font-family: 'Open Sans', sans-serif;
+color: #000;}
+h1{
+color: #000;
+color: rgb(255, 255, 255);
+}

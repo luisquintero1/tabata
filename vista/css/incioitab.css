@@ -1,0 +1,58 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700);
+body{
+	 
+  font-family: 'Open Sans', sans-serif;
+	background-image: url("img/pan.jpg" )  ; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+}
+.text-center{
+  text-align:center;
+  color: #fff;
+ 
+  font-family: impact;
+  font-size: 17px;
+  letter-spacing: 0;
+  text-shadow: -3px -3px 3px #0000DF, 3px -3px 3px #0000DF, -3px 3px 3px #0000DF, 3px 3px 3px #0000DF;
+
+}
+#holaa{
+  width: 500px;
+  
+  margin:1px auto;
+  height: 50px;
+
+}
+#tiempooo{
+   
+    width: 100px;
+    
+    margin:1px auto;
+    height: 230px;
+    text-align: justify;
+
+
+}
+#serel{
+  border: 2px solid #000000; 
+
+}
+#rondal{
+  border: 2px solid #000000;
+}
+#iniool{
+  border: 2px solid #000000; 
+
+}
+#derecha{
+  float: left;
+  background:blue
+}
+#izquierda{
+  float: right;
+
+}
